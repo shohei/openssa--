@@ -704,7 +704,7 @@ h1, h2, h3, h4, h5 = st.columns([1.6, 1.6, 1.6, 1.6, 3.6])
 with h1:
     st.markdown(
         '<div style="font-size:18px;font-weight:900;color:#4a90d9;'
-        'letter-spacing:2px;padding:6px 0;">⊕ OpenSSA</div>',
+        'letter-spacing:2px;padding:6px 0;">⊕ OpenSSA--</div>',
         unsafe_allow_html=True,
     )
 with h2:
