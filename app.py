@@ -13,7 +13,7 @@ import streamlit as st
 # Page config
 # ─────────────────────────────────────────────────────────────────────────────
 st.set_page_config(
-    page_title="OpenSSA++",
+    page_title="OpenSSA--",
     layout="wide",
     page_icon="🛰️",
     initial_sidebar_state="collapsed",
