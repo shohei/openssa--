@@ -1,6 +1,6 @@
 # OpenSSA-- (minus minus) — Space Situational Awareness Dashboard
 
-An interactive, real-time Space Situational Awareness dashboard built with Streamlit and Plotly.
+An interactive, real-time Space Situational Awareness dashboard.
 
 ![](image.gif)
 
